@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"天理","p":true}],"r_ele":[{"r":"てんり","p":true}],"sense":[{"gloss":"natural laws, rule of heaven","pos":["n"]}]},"sdata":[]}

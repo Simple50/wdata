@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"発禁","p":true}],"r_ele":[{"r":"はっきん","p":true}],"sense":[{"gloss":"prohibition of sale, ban on sale","pos":["n"],"x":["発売禁止"]}],"m":["abbr"]},"sdata":[]}

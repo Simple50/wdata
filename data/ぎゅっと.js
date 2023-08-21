@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ぎゅっと","p":true},{"r":"ギュッと"},{"r":"ギュっと"},{"r":"ギュって"},{"r":"ギュッて"},{"r":"ぎゅって"}],"sense":[{"gloss":"tightly (hold, squeeze, etc.), firmly, forcefully (e.g. push), hard","pos":["adv","vs"]}],"m":["on-mim"]},"sdata":[{"j":"|ぎゅっと|↑抱↑↓だ↓きしめて。","e":"Hug me tight."},{"j":"↑彼女↑↓かのじょ↓を|ぎゅっと|↑抱↑↓だ↓きしめた。","e":"I hugged her tightly."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"罰点","p":true}],"r_ele":[{"r":"ばってん","p":true},{"r":"バッテン"}],"sense":[{"gloss":"cross mark, demerit mark, an X","pos":["n"]}],"m":["uk"]},"sdata":[]}

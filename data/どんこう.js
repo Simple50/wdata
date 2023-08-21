@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鈍行","p":true}],"r_ele":[{"r":"どんこう","p":true}],"sense":[{"gloss":"local train, slow train","pos":["n"]}]},"sdata":[{"j":"↑話↑↓はなし↓をするにつれて、↑彼↑↓かれ↓はどん|どん↑興奮↑↓こう|ふん↓してきた。","e":"As he talked, he got more and more excited."},{"j":"↑鈍行↑↓|どんこう|↓なの？","e":"Is it a slow train?"}]}

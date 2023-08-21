@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"兼ね合い","p":true},{"e":"兼合い"}],"r_ele":[{"r":"かねあい","p":true}],"sense":[{"gloss":"equilibrium, good balance, poise","pos":["n","vs"]}]},"sdata":[]}

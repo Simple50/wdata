@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鮮烈","p":true}],"r_ele":[{"r":"せんれつ","p":true}],"sense":[{"gloss":"vivid, striking","pos":["adj-na","n"]}]},"sdata":[{"j":"↑空↑↓そら↓と↑山↑↓やま↓の↑対比↑↓たいひ↓が↑鮮烈↑↓|せんれつ|↓だ。","e":"The contrast between the sky and the mountain is striking."}]}

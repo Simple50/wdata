@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"穴熊","p":true},{"e":"貛","i":["oK"]}],"r_ele":[{"r":"あなぐま","p":true},{"r":"あなくま"},{"r":"アナグマ"}],"sense":[{"gloss":"badger","pos":["n"],"m":["uk"]},{"gloss":"Eurasian badger (Meles meles)","pos":["n"],"m":["uk"]},{"gloss":"defensive opening for shogi","pos":["n"],"m":["abbr"],"x":["穴熊囲い","将棋"]}]},"sdata":[]}

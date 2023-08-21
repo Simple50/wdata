@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"生ゴミ","p":true},{"e":"生ごみ"},{"e":"生塵"},{"e":"生芥"}],"r_ele":[{"r":"なまごみ","p":true}],"sense":[{"gloss":"kitchen waste, food scraps, raw garbage","pos":["n"]}]},"sdata":[{"j":"この↑台所↑↓だいどころ↓で↑生↑↓|なま↓ごみ|はどこに↑捨↑↓す↓てますか。","e":"Where do you put the garbage in this kitchen?"}]}

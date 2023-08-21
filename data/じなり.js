@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"地鳴り","p":true},{"e":"地なり"}],"r_ele":[{"r":"じなり","p":true}],"sense":[{"gloss":"rumble in the ground","pos":["n"]}]},"sdata":[]}

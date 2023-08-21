@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"老いる","p":true}],"r_ele":[{"r":"おいる","p":true}],"sense":[{"gloss":"to age, to grow old","pos":["v1","vi"]}]},"sdata":[{"j":"↑生↑↓い↓きることは↑老↑↓|お↓いる|こと。それだけ。","e":"Living is growing old, nothing more."}]}

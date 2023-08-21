@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"部首","p":true}],"r_ele":[{"r":"ぶしゅ","p":true}],"sense":[{"gloss":"radical (of a kanji character)","pos":["n"]}]},"sdata":[{"j":"↑彼↑↓かれ↓は↑南部↑↓なん|ぶ↓↑出身↑↓しゅ|っしん↓に↑違↑↓ちが↓いない。","e":"He must be from the South."},{"j":"↑彼女↑↓かのじょ↓は↑南部↑↓なん|ぶ↓↑出身↑↓しゅ|っしん↓に↑違↑↓ちが↓いない。","e":"She must be from the South."}]}

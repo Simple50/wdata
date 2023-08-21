@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"降らす","p":true}],"r_ele":[{"r":"ふらす","p":true}],"sense":[{"gloss":"to send (rain), to shed","pos":["v5s","vt"]}]},"sdata":[{"j":"↑今日↑↓きょう↓はちょっとふら|ふらす|る。","e":"I feel a little weak today."}]}

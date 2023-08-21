@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"具現","p":true}],"r_ele":[{"r":"ぐげん","p":true}],"sense":[{"gloss":"incarnation, embodiment, realization, giving concrete form (to)","pos":["n","vs","vt"]}]},"sdata":[]}

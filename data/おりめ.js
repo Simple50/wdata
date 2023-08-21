@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"折り目","p":true},{"e":"折目"}],"r_ele":[{"r":"おりめ","p":true}],"sense":[{"gloss":"fold, crease, pleat","pos":["n"]},{"gloss":"manners, courtesy, responsible behavior (behaviour)","pos":["n"]}]},"sdata":[{"j":"サインする↑前↑↓まえ↓に、↑契約↑↓けいやく↓↑書↑↓しょ↓に↑一↑↓ひと↓↑通↑↓と|お↓り↑目↑↓め|↓を↑通↑↓とお↓した↑方↑↓ほう↓がいいですよ。","e":"You should look over the contract before you sign it."}]}

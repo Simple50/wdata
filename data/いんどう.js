@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"引導","p":true}],"r_ele":[{"r":"いんどう","p":true}],"sense":[{"gloss":"last words recited to the newly departed, requiem","pos":["n"],"f":["Buddh"]},{"gloss":"converting people to Buddhism","pos":["n"],"f":["Buddh"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民営","p":true}],"r_ele":[{"r":"みんえい","p":true}],"sense":[{"gloss":"private management","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"贈与","p":true}],"r_ele":[{"r":"ぞうよ","p":true}],"sense":[{"gloss":"donation, presentation","pos":["n","vs","vt"]}]},"sdata":[]}

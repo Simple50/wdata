@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"親バカ","p":true},{"e":"親ばか","p":true},{"e":"親馬鹿"}],"r_ele":[{"r":"おやばか","p":true}],"sense":[{"gloss":"over-fond parent, doting parent","pos":["n"]}]},"sdata":[{"j":"それが↑親↑↓|おや↓ばか|というものさ。","e":"We parents sometimes become blind in loving our children too much."},{"j":"↑彼↑↓かれ↓はいわゆるありふれた↑親↑↓|おや↓ばか|ではない。","e":"He is not your common doting parent."}]}

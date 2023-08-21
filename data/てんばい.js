@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"転売","p":true}],"r_ele":[{"r":"てんばい","p":true}],"sense":[{"gloss":"resale","pos":["n","vs","vt"]}]},"sdata":[]}

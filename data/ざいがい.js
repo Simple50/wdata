@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"在外","p":true}],"r_ele":[{"r":"ざいがい","p":true}],"sense":[{"gloss":"overseas, abroad","pos":["n","adj-no"]}]},"sdata":[{"j":"これだけまあ、↑多士↑↓たし↓↑済済↑↓せいせい↓の↑人材↑↓じん|ざい↓が↑一堂↑↓い|ちどう↓に↑集↑↓あつ↓まったもんだよな。","e":"Not bad—not bad at all. This is quite a gathering of talent to have under one roof."}]}

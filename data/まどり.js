@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"間取り","p":true},{"e":"間取"}],"r_ele":[{"r":"まどり","p":true}],"sense":[{"gloss":"layout (of a house or apartment), arrangement of rooms","pos":["n"]}]},"sdata":[{"j":"↑間取↑↓|まど↓り|も↑狭↑↓せま↓いし、↑周↑↓まわ↓りもうるさいけど、↑住↑↓す↓めば↑都↑↓みやこ↓なんだよ、この↑部屋↑↓へや↓。","e":"It's a small noisy apartment, but it's where I live and I call it home."}]}

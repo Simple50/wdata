@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"座礁","p":true},{"e":"坐礁","i":["rK"]}],"r_ele":[{"r":"ざしょう","p":true}],"sense":[{"gloss":"running aground, being stranded, grounding, beaching","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑私↑↓わたし↓は↑脳↑↓のう↓↑挫傷↑↓|ざしょう|↓を↑起↑↓お↓こした。","e":"I had a cerebral contusion."}]}

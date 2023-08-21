@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"米産","p":true}],"r_ele":[{"r":"べいさん","p":true}],"sense":[{"gloss":"rice production","pos":["n"]}]},"sdata":[]}

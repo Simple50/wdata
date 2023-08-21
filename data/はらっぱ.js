@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"原っぱ","p":true}],"r_ele":[{"r":"はらっぱ","p":true}],"sense":[{"gloss":"open field, empty lot, plain","pos":["n"]}]},"sdata":[]}

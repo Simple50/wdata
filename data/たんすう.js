@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"単数","p":true}],"r_ele":[{"r":"たんすう","p":true}],"sense":[{"gloss":"singular number","pos":["n","adj-no"],"ant":["複数"]}]},"sdata":[{"j":"everyは↑単数↑↓|たんすう|↓↑扱↑↓あつか↓いになります。","e":"The word \"every\" is treated as singular."}]}

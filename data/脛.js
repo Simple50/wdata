@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"脛","p":true},{"e":"臑"}],"r_ele":[{"r":"すね","p":true},{"r":"はぎ","i":["ok"]}],"sense":[{"gloss":"shin, shank, lower leg","pos":["n"]}],"m":["uk"]},"kdata":{"脛":{"on":["ケイ"],"kun":["すね","はぎ"],"meanings":["leg","shin"],"comp":[["巠","月"]],"jlpt":-1,"freq":3019}},"sdata":[{"j":"↑昨日↑↓きのう↓から|↑脛|↑↓すね↓が↑痛↑↓いた↓い。","e":"My calf has been hurting since yesterday."}]}

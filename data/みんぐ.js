@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"民具","p":true}],"r_ele":[{"r":"みんぐ","p":true}],"sense":[{"gloss":"everyday articles which have come to be regarded as folk art","pos":["n"]}]},"sdata":[{"j":"ロッククライ|ミング|も、↑海↑↓うみ↓で↑深↑↓ふか↓く↑潜↑↓くぐ↓ることもしたし、インドネシアの↑熱帯↑↓ねったい↓↑雨林↑↓うりん↓で↑眠↑↓ねむ↓ったこともある。","e":"I've done rock climbing and deep-sea diving and slept in an Indonesian jungle."}]}

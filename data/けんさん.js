@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"研鑽","p":true},{"e":"研鑚"},{"e":"研さん","i":["sK"]},{"e":"研讃","i":["sK"]}],"r_ele":[{"r":"けんさん","p":true}],"sense":[{"gloss":"diligent study, devoting oneself to one's studies","pos":["n","vs","vt"]}]},"sdata":[{"j":"↑志村↑↓しむら↓|けんさん|の↑死↑↓し↓は、↑日本↑↓にっぽん↓↑中↑↓じゅう↓に↑衝撃↑↓しょうげき↓を↑与↑↓あた↓えた。","e":"Shimura's death sent shock waves throughout Japan."}]}

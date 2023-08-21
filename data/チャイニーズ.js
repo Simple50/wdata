@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"チャイニーズ","p":true}],"sense":[{"gloss":"Chinese","pos":["n"]}]},"sdata":[]}

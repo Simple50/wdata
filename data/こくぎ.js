@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国技","p":true}],"r_ele":[{"r":"こくぎ","p":true}],"sense":[{"gloss":"national sport (e.g. sumo)","pos":["n"]}]},"sdata":[{"j":"↑跆拳道↑↓テコンドー↓の↑発祥↑↓はっしょう↓↑地↑↓ち↓は↑韓国↑↓かんこく↓で、↑国技↑↓|こくぎ|↓に↑制定↑↓せいてい↓されています。","e":"Taekwondo's place of origin is Korea, where it is established as a national sport."}]}

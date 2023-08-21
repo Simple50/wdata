@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"徴用","p":true},{"e":"徴傭","i":["iK"]}],"r_ele":[{"r":"ちょうよう","p":true}],"sense":[{"gloss":"drafting, requisition, impressment, commandeering, expropriation","pos":["n","vs","vt"]}]},"sdata":[]}

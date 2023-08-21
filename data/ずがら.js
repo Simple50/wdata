@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"図柄","p":true}],"r_ele":[{"r":"ずがら","p":true}],"sense":[{"gloss":"design, pattern","pos":["n"]}]},"sdata":[{"j":"その↑図柄↑↓|ずがら|↓はまったくよく↑似↑↓に↓ている。","e":"The figures are exactly alike."}]}

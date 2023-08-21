@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ぽかぽか","p":true},{"r":"ポカポカ"},{"r":"ぽっかぽか"},{"r":"ポッカポカ"}],"sense":[{"gloss":"pleasantly warm, nice and warm","pos":["adj-no","adv-to","adv","vs"]},{"gloss":"repeatedly (hitting someone), again and again, over and over","pos":["adv-to","adv","vs"]}],"m":["on-mim"]},"sdata":[{"j":"|ぽかぽか|と↑暖↑↓あたた↓かい。","e":"It's balmy today."}]}

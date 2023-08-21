@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"焜炉","p":true,"i":["rK"]}],"r_ele":[{"r":"こんろ","p":true},{"r":"コンロ"}],"sense":[{"gloss":"cooking stove, burner (gas, electric, etc.), range, cooktop, hob","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"プラスチックの↑皿↑↓さら↓は|こんろ|にかけると↑溶↑↓と↓ける。","e":"A plastic dish will melt on the stove."}]}

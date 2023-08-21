@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"冷凍庫","p":true}],"r_ele":[{"r":"れいとうこ","p":true}],"sense":[{"gloss":"freezer","pos":["n"]}]},"sdata":[{"j":"↑私↑↓わたし↓が↑冷凍庫↑↓|れいとうこ|↓を↑持↑↓も↓つ↑十分↑↓じゅうぶん↓な↑理由↑↓りゆう↓がいくつかある。","e":"There are several good reasons why I have a freezer."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"惨劇","p":true}],"r_ele":[{"r":"さんげき","p":true}],"sense":[{"gloss":"tragedy, tragic event","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"突風","p":true}],"r_ele":[{"r":"とっぷう","p":true}],"sense":[{"gloss":"gust (of wind), blast","pos":["n"]}]},"sdata":[]}

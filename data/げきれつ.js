@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"激烈","p":true},{"e":"劇烈"}],"r_ele":[{"r":"げきれつ","p":true}],"sense":[{"gloss":"violence, vehemence, fury, fervour, fervor, severity, fierceness, keenness","pos":["n","adj-na"]}]},"sdata":[{"j":"↑我々↑↓われわれ↓の↑会社↑↓かいしゃ↓は↑激烈↑↓|げきれつ|↓な↑競争↑↓きょうそう↓に↑耐↑↓た↓えきれなかった。","e":"Our company failed to survive against cutthroat competition."}]}

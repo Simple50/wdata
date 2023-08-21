@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"鈍間","i":["rK"]},{"e":"野呂間","i":["rK"]},{"e":"野呂松","i":["rK"]}],"r_ele":[{"r":"のろま","p":true},{"r":"ノロマ"}],"sense":[{"gloss":"blockhead, dunce, dimwit, dolt, slowcoach, slowpoke","pos":["n","adj-na"]}],"m":["uk"]},"sdata":[{"j":"|のろま|な↑亀↑↓かめ↓がレースを↑制↑↓せい↓する。","e":"Slow but steady wins the race."}]}

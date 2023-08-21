@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"日産","p":true}],"r_ele":[{"r":"にっさん","p":true}],"sense":[{"gloss":"daily output","pos":["n"]},{"gloss":"Nissan (Japanese car company)","pos":["n"],"m":["abbr"]}]},"sdata":[{"j":"あそこの↑販売↑↓はんばい↓↑店↑↓てん↓で、↑中古↑↓ちゅうこ↓の↑日産↑↓|にっさん|↓を２０↑万↑↓まん↓↑円↑↓えん↓で↑売↑↓う↓ってくれた。","e":"The dealer gave an old Nissan to me for 200,000 yen."}]}

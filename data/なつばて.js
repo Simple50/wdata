@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"夏バテ","p":true},{"e":"夏ばて","p":true}],"r_ele":[{"r":"なつばて","p":true}],"sense":[{"gloss":"suffering from summer heat, summer heat fatigue","pos":["n","vs","vi"]}]},"sdata":[]}

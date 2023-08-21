@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"両輪","p":true}],"r_ele":[{"r":"りょうりん","p":true}],"sense":[{"gloss":"two wheels","pos":["n"]}]},"sdata":[{"j":"お↑前↑↓まえ↓と↑俺↑↓おれ↓は、↑今回↑↓こんかい↓のプロジェクトでは↑車↑↓くるま↓の↑両輪↑↓|りょうりん|↓ということだろう。↑仲良↑↓なかよ↓くしないことにはうまくいかないよ。","e":"It seems you and I are essential to this project. We'd better get along or it'll go badly."}]}

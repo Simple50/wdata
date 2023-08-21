@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"オラクル","p":true}],"sense":[{"gloss":"oracle","pos":["n"]}]},"sdata":[{"j":"|オラクル|マスターって↑言↑↓い↓うからスピリチュアル↑関係↑↓かんけい↓かと↑思↑↓おも↓ったらコンピューター↑関係↑↓かんけい↓じゃん。つまらん。","e":"It said \"Oracle Master,\" so I thought it was something related to spirits, but no, it was only about computers. Boring."}]}

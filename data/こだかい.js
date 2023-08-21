@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"小高い","p":true}],"r_ele":[{"r":"こだかい","p":true}],"sense":[{"gloss":"slightly elevated","pos":["adj-i"]}]},"sdata":[{"j":"↑私↑↓わたし↓たちの↑学校↑↓がっこう↓は↑小高↑↓|こだか↓い|↑丘↑↓おか↓の↑上↑↓じょう↓にあります。","e":"Our school stands on a hill."}]}

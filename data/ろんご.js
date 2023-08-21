@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"論語","p":true}],"r_ele":[{"r":"ろんご","p":true}],"sense":[{"gloss":"the Analects of Confucius (one of the Four Books)","pos":["n"],"x":["四書"]}]},"sdata":[]}

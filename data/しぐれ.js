@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"時雨","p":true}],"r_ele":[{"r":"しぐれ","p":true},{"r":"じう"}],"sense":[{"gloss":"rain shower in late autumn (fall) or early winter","pos":["n"]},{"gloss":"seasonable rain","pos":["n"]}]},"sdata":[]}

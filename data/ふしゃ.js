@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"富者","p":true}],"r_ele":[{"r":"ふしゃ","p":true},{"r":"ふうしゃ"}],"sense":[{"gloss":"rich person, millionaire, the wealthy","pos":["n"]}]},"sdata":[{"j":"すべて惡を↑行↑↓くだり↓|ふ↑者↑↓しゃ|↓は↑光↑↓ひかり↓をにくみて↑光↑↓ひかり↓に來らず、その↑行↑↓くだり↓爲の↑責↑↓せ↓められざらん爲なり。","e":"For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved."}]}

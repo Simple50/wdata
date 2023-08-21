@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"じゃぶじゃぶ","p":true},{"r":"ジャブジャブ"}],"sense":[{"gloss":"splashing (water), splashing about, with a splash","pos":["adv","adv-to"]},{"gloss":"vigorously, generously (e.g. pouring sauce), plenty","pos":["adv","adv-to"]},{"gloss":"greatly (using or making money)","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[]}

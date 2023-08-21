@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"留保","p":true}],"r_ele":[{"r":"りゅうほ","p":true}],"sense":[{"gloss":"reserving, withholding","pos":["n","vs","vt"]}]},"sdata":[]}

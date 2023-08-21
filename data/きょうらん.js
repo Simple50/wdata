@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"狂乱","p":true}],"r_ele":[{"r":"きょうらん","p":true}],"sense":[{"gloss":"fury, frenzy, madness, wildness","pos":["n","vs","vi","adj-no"]}]},"sdata":[]}

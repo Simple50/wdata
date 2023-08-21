@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱闘","p":true}],"r_ele":[{"r":"らんとう","p":true}],"sense":[{"gloss":"fray, fighting, brawling, scuffle","pos":["n","vs","vi"]}]},"sdata":[{"j":"↑警官↑↓けいかん↓↑隊↑↓たい↓はデモ↑隊↑↓たい↓と↑乱闘↑↓|らんとう|↓になった。","e":"The police brawled with the demonstrators."}]}

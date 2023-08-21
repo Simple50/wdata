@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"文芸","p":true},{"e":"文藝","i":["oK"]}],"r_ele":[{"r":"ぶんげい","p":true}],"sense":[{"gloss":"literature","pos":["n"]},{"gloss":"the arts, art and literature, liberal arts","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"戦費","p":true}],"r_ele":[{"r":"せんぴ","p":true}],"sense":[{"gloss":"war expenditures","pos":["n"]}]},"sdata":[{"j":"↑戦費↑↓|せんぴ|↓の↑捻出↑↓ねんしゅつ↓に↑国債↑↓こくさい↓が↑発行↑↓はっこう↓された。","e":"Bonds were issued to finance a war."}]}

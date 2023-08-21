@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"何だかんだ","p":true},{"e":"何だかだ"},{"e":"何だ彼だ"}],"r_ele":[{"r":"なんだかんだ","p":true},{"r":"なんだかだ"}],"sense":[{"gloss":"something or other, one thing or another, this or that","pos":["adv"]}],"m":["uk"]},"kdata":{"何":{"on":["カ"],"kun":["なに","なん","なに-","なん-"],"jlpt":5,"meanings":["what"],"freq":340,"comp":[["亻","可"]],"d":["荷","哬"],"s":"伺,同","t":438}},"sdata":[]}

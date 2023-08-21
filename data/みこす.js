@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"見越す","p":true}],"r_ele":[{"r":"みこす","p":true}],"sense":[{"gloss":"to anticipate, to foresee","pos":["v5s","vt"]}]},"sdata":[]}

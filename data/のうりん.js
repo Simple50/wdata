@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"農林","p":true}],"r_ele":[{"r":"のうりん","p":true}],"sense":[{"gloss":"agriculture and forestry","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"集い","p":true}],"r_ele":[{"r":"つどい","p":true}],"sense":[{"gloss":"meeting, get-together (e.g. among friends)","pos":["n"]}]},"sdata":[]}

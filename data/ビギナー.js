@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"ビギナー","p":true}],"sense":[{"gloss":"beginner","pos":["n"]}]},"sdata":[{"j":"エスペラントはまだ|ビギナー|なもんで。","e":"I'm still a beginner at Esperanto."},{"j":"|ビギナー|コースって、ありますか？","e":"Do you have a course for beginners?"}]}

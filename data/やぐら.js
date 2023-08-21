@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"櫓","p":true},{"e":"矢倉"}],"r_ele":[{"r":"やぐら","p":true}],"sense":[{"gloss":"turret, watchtower","pos":["n"]},{"gloss":"high wooden stage, scaffolding","pos":["n"]},{"gloss":"wooden frame (of a kotatsu)","pos":["n"],"x":["炬燵"]},{"gloss":"yagura, fortress","pos":["n"],"f":["shogi"]},{"gloss":"weapons storehouse","pos":["n"],"m":["arch"]}]},"sdata":[]}

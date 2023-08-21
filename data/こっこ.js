@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"国庫","p":true}],"r_ele":[{"r":"こっこ","p":true}],"sense":[{"gloss":"national treasury","pos":["n"]}]},"sdata":[{"j":"↑国庫↑↓|こっこ|↓は↑資金↑↓しきん↓が↑潤沢↑↓じゅんたく↓である。","e":"The government coffers are replete with funds."},{"j":"それ↑以来↑↓いらい↓カナダとイランの↑国交↑↓|こっこ|う↓は↑断絶↑↓だんぜつ↓している。","e":"Since then, diplomatic relations between Canada and Iran have been suspended."}]}

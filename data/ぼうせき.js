@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"紡績","p":true}],"r_ele":[{"r":"ぼうせき","p":true}],"sense":[{"gloss":"spinning (textiles)","pos":["n"]},{"gloss":"spun yarn","pos":["n"],"m":["abbr"],"x":["紡績糸"]}]},"sdata":[]}

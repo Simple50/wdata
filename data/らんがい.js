@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"欄外","p":true}],"r_ele":[{"r":"らんがい","p":true}],"sense":[{"gloss":"margin","pos":["n","adj-no"]}]},"sdata":[]}

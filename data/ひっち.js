@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"筆致","p":true}],"r_ele":[{"r":"ひっち","p":true}],"sense":[{"gloss":"stroke of the brush, touch","pos":["n"]},{"gloss":"literary style","pos":["n"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓はその↑事件↑↓じけん↓を↑生↑↓い↓き↑生↑↓い↓きとした↑筆致↑↓|ひっち|↓で↑描写↑↓びょうしゃ↓した。","e":"She painted a vivid picture of the event."}]}

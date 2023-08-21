@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"にゃー","p":true},{"r":"にゃあ"},{"r":"にゃお"},{"r":"にゃあご"}],"sense":[{"gloss":"meow, miaow","pos":["adv","adv-to"]}],"m":["on-mim"]},"sdata":[{"j":"↑猫↑↓ねこ↓は|にゃー||にゃー|いいつづけた。","e":"The cat continued to mew."},{"j":"↑猫↑↓ねこ↓は|にゃー||にゃー|と↑鳴↑↓な↓く。","e":"Cats go \"meow, meow.\""}]}

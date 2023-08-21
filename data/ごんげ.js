@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"権化","p":true}],"r_ele":[{"r":"ごんげ","p":true}],"sense":[{"gloss":"incarnation (of Buddha or bodhisattva), avatar","pos":["n"],"f":["Buddh"],"x":["実化"]},{"gloss":"embodiment (as in \"embodiment of evil\"), incarnation, personification","pos":["n"]}]},"sdata":[]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"艶々","p":true},{"e":"艶艶"}],"r_ele":[{"r":"つやつや","p":true},{"r":"ツヤツヤ"}],"sense":[{"gloss":"glossy, bright, slick","pos":["adv","adv-to","vs","adj-no"]}],"m":["uk"]},"sdata":[]}

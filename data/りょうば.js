@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"諸刃"},{"e":"もろ刃"},{"e":"両刃","p":true},{"e":"双刃"}],"r_ele":[{"r":"もろは"},{"r":"りょうば","p":true}],"sense":[{"gloss":"double-edged","pos":["adj-no"]},{"gloss":"double-edged blade","pos":["n"]}]},"sdata":[{"j":"この↑公園↑↓こうえん↓は↑貴族↑↓きぞく↓の↑猟場↑↓|りょうば|↓でした。","e":"This park used to be a hunting ground for a noble family."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"白熊"},{"e":"白くま"}],"r_ele":[{"r":"しろくま","p":true},{"r":"シロクマ"}],"sense":[{"gloss":"polar bear (Ursus maritimus)","pos":["n"],"x":["ホッキョクグマ"]}],"m":["uk"]},"sdata":[]}

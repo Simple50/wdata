@@ -1,0 +1,1 @@
+{"data":{"r_ele":[{"r":"デュエット","p":true}],"sense":[{"gloss":"duet","pos":["n","vs"]}]},"sdata":[{"j":"↑彼女↑↓かのじょ↓は↑彼↑↓かれ↓と|デュエット|したことがない。","e":"She has never sung a song with him."}]}

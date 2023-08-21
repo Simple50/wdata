@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"職歴","p":true}],"r_ele":[{"r":"しょくれき","p":true}],"sense":[{"gloss":"work experience, work history","pos":["n"]}]},"sdata":[{"j":"↑政府↑↓せいふ↓での↑私↑↓わたし↓の↑職歴↑↓|しょくれき|↓は↑数↑↓すう↓↑多↑↓おお↓くの↑海外↑↓かいがい↓↑勤務↑↓きんむ↓を↑含↑↓ふく↓む。","e":"My career in the government includes many overseas assignments."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"お襁褓","i":["rK"]},{"e":"御襁褓","i":["rK"]}],"r_ele":[{"r":"おむつ","p":true},{"r":"オムツ","p":true}],"sense":[{"gloss":"diaper, nappy","pos":["n"]}],"m":["uk"]},"sdata":[{"j":"ジョンは↑毎日↑↓まいにち↓、↑赤↑↓あか↓ちゃんの|おむつ|を↑替↑↓か↓えなといけないの。","e":"John has to change the baby's diapers every day."}]}

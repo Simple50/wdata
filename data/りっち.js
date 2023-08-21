@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"立地","p":true}],"r_ele":[{"r":"りっち","p":true}],"sense":[{"gloss":"choosing a site (e.g. for industry), deciding on a location","pos":["n","vs"]},{"gloss":"standpoint, position","pos":["n"]}]},"sdata":[{"j":"トムはメアリーより|リッチ|よ。","e":"Tom is richer than Mary."}]}

@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"山猫","p":true}],"r_ele":[{"r":"やまねこ","p":true},{"r":"ヤマネコ"}],"sense":[{"gloss":"wildcat (European wildcat, Iriomote cat, Tsushima cat, etc.)","pos":["n"],"x":["対馬山猫・つしまやまねこ","西表山猫・いりおもてやまねこ"]},{"gloss":"wild cat, stray cat","pos":["n"]}]},"sdata":[]}

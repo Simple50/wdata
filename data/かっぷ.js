@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"割賦","p":true}],"r_ele":[{"r":"かっぷ","p":true},{"r":"わっぷ"}],"sense":[{"gloss":"allotment, quota, payment in installments, payment in instalments, hire-purchase","pos":["n"]}]},"sdata":[]}

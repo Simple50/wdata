@@ -1,0 +1,1 @@
+{"data":{"k_ele":[{"e":"乱取り","p":true},{"e":"乱捕り"},{"e":"乱取","i":["io"]},{"e":"乱捕","i":["io"]}],"r_ele":[{"r":"らんどり","p":true}],"sense":[{"gloss":"randori (freestyle judo training)","pos":["n"],"f":["MA"]}]},"sdata":[{"j":"|ランドリ|ーはどこですか。","e":"Where is the laundry?"}]}
